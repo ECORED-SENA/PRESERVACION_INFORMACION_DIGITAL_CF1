@@ -33,7 +33,7 @@ export default {
         left: '-200%',
         top: '-100%',
         texto:
-          'Vertical (hacia arriba o abajo dentro de la jerarquía organizacional).',
+          'Asegurar que el contenido informativo, la estructura lógica y el contexto no se han modificado, ni se ha afectado el grado de fiabilidad, ni la autenticidad del documento original.',
       },
       {
         pos_x: '60.2%',

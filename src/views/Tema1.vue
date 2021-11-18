@@ -11,7 +11,7 @@
     #t_1_1.titulo-segundo.color-secundario(data-aos="fade-right")
       h2 1.1 Conceptos básicos  
     p.mb-5 En esta sección se expondrán conceptos que son relevantes a la hora de comprender las diferentes técnicas estandarizadas en la preservación de la información digital.
-    h3(data-aos="fade-right") Aplicación de las técnicas de preservación de la información digital.
+    h3(data-aos="fade-right") Aplicación de las técnicas de preservación de la información digital
     p.mb-5 A continuación, se presenta las diferentes técnicas para tener en cuenta en la preservación digital: 
     figure.mb-5
       .video
@@ -24,7 +24,7 @@
         | Documentos y formatos digitales
     figure.mb-5(data-aos="zoom-in-up")
       img(src="@/assets/curso/7.svg" alt="Figura 1")
-    h3(data-aos="fade-right") Componentes del documento digital.
+    h3(data-aos="fade-right") Componentes del documento digital
     p.mb-5 Un documento digital creado por un sistema informático consta de diferentes partes como:  
     .row.mb-5.justify-content-center
       .col-lg-4.mb-3
@@ -40,7 +40,7 @@
             img(src='@/assets/curso/9.svg' alt='AvatarTop')
           .tarjeta.color-primario.d-flex.align-items-center
             .p-4
-              h5.mb-0 La estructura se refiere a la relación entre formatos y sus curso/8
+              h5.mb-0 La estructura se refiere a la relación entre formatos y sus componentes.
       .col-lg-4.mb-3
         .tarjeta-avatar-b.mb-5.h-100.hover
           .tarjeta-avatar-b__img
@@ -73,7 +73,7 @@
           img(src="@/assets/curso/13.svg" alt="Figura 2")
     .row.mb-5
       .col-lg-7(data-aos="fade-right")
-        p <b>La recolección de datos y/o información de los usuarios</b> (clientes) es primordial para casi cualquier estrategia de marketing. Sin data, se está comercializando a ciegas, simplemente con un falso objetivo de llegar al público objetivo. Muchas empresas recopilan datos digitalmente, pero no están ni segmentados, ni caracterizados. 
+        p <b>La recolección de datos y/o información de los usuarios</b> (clientes) es primordial para casi cualquier estrategia de <i>marketing</i>. Sin data, se está comercializando a ciegas, simplemente con un falso objetivo de llegar al público objetivo. Muchas empresas recopilan datos digitalmente, pero no están ni segmentados, ni caracterizados. 
           br
           br
           |Por lo anterior, los programas de preservación digital deben tratar los objetos digitales en cuatro niveles expuestos en la siguiente figura.
@@ -147,7 +147,7 @@
           figure
             img(src='@/assets/curso/24.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p Se basa en la preservación del entorno técnico que hace funcionar el sistema, incluyendo sistemas operativos, software de aplicaciones, controladores de medios, etc.
+          p Se basa en la preservación del entorno técnico que hace funcionar el sistema, incluyendo sistemas operativos, <i>software</i> de aplicaciones, controladores de medios, etc.
       .row(titulo="Migración y almacenamiento")
         .col-md-4
           figure
@@ -159,8 +159,8 @@
           figure
             img(src='@/assets/curso/26.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p En esta se busca la forma de codificar y formatear los objetos digitales adhiriéndose a estándares reconocidos y favoreciéndolos en lugar de los más esotéricos y menos soportados y, la emulación encapsula el comportamiento del software junto con el objeto digital del mismo, utiliza alternativas en la emulación de documento a documento, es la creación de un registro que identifique unívocamente entornos de hardware y software.
-    p.mb-5 La recopilación de datos es valiosa porque puede usarla para tomar decisiones informadas. Cuantos más datos relevantes y de alta calidad tenga, más probabilidades tendrá de tomar buenas decisiones en lo que respecta al marketing, las ventas, el servicio al cliente, el desarrollo de productos y muchas otras áreas de su negocio.
+          p En esta se busca la forma de codificar y formatear los objetos digitales adhiriéndose a estándares reconocidos y favoreciéndolos en lugar de los más esotéricos y menos soportados y, la emulación encapsula el comportamiento del <i>software</i> junto con el objeto digital del mismo, utiliza alternativas en la emulación de documento a documento, es la creación de un registro que identifique unívocamente entornos de <i>hardware</i> y <i>software</i>.
+    p.mb-5 La recopilación de datos es valiosa porque puede usarla para tomar decisiones informadas. Cuantos más datos relevantes y de alta calidad tenga, más probabilidades tendrá de tomar buenas decisiones en lo que respecta al <i>marketing</i>, las ventas, el servicio al cliente, el desarrollo de productos y muchas otras áreas de su negocio.
       br
       br
       |Algunos usos específicos de los datos del cliente incluyen los siguientes:
@@ -282,6 +282,7 @@
             .tarjeta-avatar-slide__img__item.p-4: img(src='@/assets/curso/48.png', alt='Texto que describa la imagen' )
             .tarjeta-avatar-slide__img__item.p-4: img(src='@/assets/curso/49.png', alt='Texto que describa la imagen' )
           p Está gestionada por profesionales que se consideren administradores del patrimonio intelectual y cultural.
+    p.mb-5 Las bibliotecas digitales son sistemas de información más complejos por su multidisciplinariedad, es decir, la necesidad de trabajar junto con profesionales de diferentes ámbitos para su total desarrollo, pero se debe tener en cuenta aspectos importantes en el desarrollo de las bibliotecas digitales:
     .row.mb-3.px-5.justify-content-start(data-aos='fade-right')
       .col-lg-7
         .cajon.color-primario.bg__azul-claro.p-4.mb-4
@@ -290,7 +291,7 @@
       .col-lg-7
         .cajon.color-primario.bg__azul-claro.p-4.mb-4
           p.px-5.fw-bold.mb-0 Los metadatos, los cuales tienen una gran importancia, porque facilitan la búsqueda y recuperación de la información siendo efectivos y precisos.
-    h3(data-aos="fade-right") Objetivos de las bibliotecas digitales.
+    h3(data-aos="fade-right") Objetivos de las bibliotecas digitales
     .row.mb-5.justify-content-center
       .col-lg-10
         .bg__naranja-claro.p-4.mb-3.d-flex.align-items-center.justify-content-end.position-relative(style='margin-top: 60px')
@@ -306,44 +307,44 @@
           .col-lg-4: img(src='@/assets/curso/51.svg', alt='Texto que describa la imagen' )
           .col-lg-8
             h4 Fomentar la digitalización 
-            p el acceso para la permanencia del patrimonio cultural y científico.
+            p El acceso para la permanencia del patrimonio cultural y científico.
       .tarjeta.pestanas.p-4(titulo="Dar acceso a todos los usuarios")
         .row
           .col-lg-4: img(src='@/assets/curso/52.svg', alt='Texto que describa la imagen' )
           .col-lg-8
             h4 Dar acceso a todos los usuarios
-            p a los recursos recopilados por las bibliotecas, respetando los derechos intelectuales.
+            p A los recursos recopilados por las bibliotecas, respetando los derechos intelectuales.
       .tarjeta.pestanas.p-4(titulo="Crear sistemas interoperables")
         .row
           .col-lg-4: img(src='@/assets/curso/53.svg', alt='Texto que describa la imagen' )
           .col-lg-8
             h4 Crear sistemas interoperables
-            p para bibliotecas digitales promoviendo estándares abiertos y de libre acceso.
+            p Para bibliotecas digitales promoviendo estándares abiertos y de libre acceso.
       .tarjeta.pestanas.p-4(titulo="Estándares")
         .row
           .col-lg-4: img(src='@/assets/curso/54.svg', alt='Texto que describa la imagen' )
           .col-lg-8
             h4 Estándares
-            p fomentar el papel esencial de las bibliotecas y organizaciones de información en la promoción de estándares y prácticas comunes.
+            p Fomentar el papel esencial de las bibliotecas y organizaciones de información en la promoción de estándares y prácticas comunes.
       .tarjeta.pestanas.p-4(titulo="Accesibilidad")
         .row
           .col-lg-4: img(src='@/assets/curso/55.svg', alt='Texto que describa la imagen' )
           .col-lg-8
             h4 Accesibilidad
-            p sensibilizar sobre la necesidad imperativa de garantizar la accesibilidad permanente del material digital.
+            p Sensibilizar sobre la necesidad imperativa de garantizar la accesibilidad permanente del material digital.
       .tarjeta.pestanas.p-4(titulo="Redes")
         .row
           .col-lg-4: img(src='@/assets/curso/56.svg', alt='Texto que describa la imagen' )
           .col-lg-8
             h4 Redes
-            p vincular las bibliotecas digitales a redes de investigación y desarrollo de alta velocidad.
+            p Vincular las bibliotecas digitales a redes de investigación y desarrollo de alta velocidad.
       .tarjeta.pestanas.p-4(titulo="Difusión")
         .row
           .col-lg-4: img(src='@/assets/curso/57.svg', alt='Texto que describa la imagen' )
           .col-lg-8
             h4 Difusión
-            p aprovechar la creciente convergencia de roles e instituciones para crear y difundir contenido.
-    h3(data-aos="fade-right")  Ventajas y desventajas. 
+            p Aprovechar la creciente convergencia de roles e instituciones para crear y difundir contenido.
+    h3(data-aos="fade-right")  Ventajas y desventajas 
     p.mb-5 En la figura que está a continuación, se describen algunas de las ventajas y desventajas de las bibliotecas digitales.
     .titulo-sexto.color-secundario
       h5.fw-normal
@@ -385,7 +386,7 @@
               | Aún persiste la preferencia por la lectura desde el medio impreso y no digital.
             li 
               i.incorrect
-              | Requiere de altos sistemas de software, que garanticen su respaldo y seguridad, de lo contrario puede ser vulnerada o alterada la información.
+              | Requiere de altos sistemas de <i>software</i>, que garanticen su respaldo y seguridad, de lo contrario puede ser vulnerada o alterada la información.
     p.mb-5 A continuación, se comparten algunas bibliotecas digitales de gran reconocimiento a nivel mundial:
     .contenedor-tarjetas.d-flex.flex-wrap.justify-content-center.mb-3
       .tarjeta.p-3.color-primario.hover--bg(style='width: 229px; height: 450px').mx-1.mb-3
@@ -440,13 +441,13 @@
           .tarjeta-flip__contenedor.h-100(style='min-height: 208px')
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/65.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.align-items-center.justify-content-center
-              h4.text-center Hardware
+              h4.text-center <i>Hardware</i>
       .col-lg-3
         .tarjeta.tarjeta-flip.color-primario
           .tarjeta-flip__contenedor.h-100(style='min-height: 208px')
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/66.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.align-items-center.justify-content-center
-              h4.text-center Software
+              h4.text-center <i>Software</i>
       .col-lg-3
         .tarjeta.tarjeta-flip.color-acento-contenido
           .tarjeta-flip__contenedor.h-100(style='min-height: 208px')
@@ -469,7 +470,7 @@
     .row.mb-5
       .col-lg-5(data-aos="fade-right"): img(src='@/assets/curso/70.png')
       .col-lg-7(data-aos="fade-left")
-        p Teniendo en cuenta que los repositorios digitales son espacios donde se almacena, administra, preserva y facilita el acceso de todos los objetos digitales para permitir la búsqueda y recuperación, contienen mecanismos que también ayudan a importar, identificar, recuperar y exportar los objetos digitales desde un portal web. 
+        p Teniendo en cuenta que los repositorios digitales son espacios donde se almacena, administra, preserva y facilita el acceso de todos los objetos digitales para permitir la búsqueda y recuperación, contienen mecanismos que también ayudan a importar, identificar, recuperar y exportar los objetos digitales desde un portal <i>web</i>. 
           br
           br
           |Los datos que se almacenan en un repositorio se pueden distribuir a través de una red informática como Internet, intranet o PC, por un medio físico como un disco compacto, unidad virtual de almacenamiento, etc.; estos pueden dar acceso público o estar protegidos y requieren una autenticación previa. Los repositorios de carácter académico e institucionales son los más conocidos, debido a que suelen contar con sistemas de respaldo, mantenimiento preventivo y correctivo, lo cual hace que la información se pueda recuperar.
@@ -496,6 +497,7 @@
           li 
             i.vineta1
             | Becarios
+    p.mb-5 Anteriormente, se mencionó que en los repositorios digitales se almacenan y se mantiene la información digital, ahora conozca cuáles son los tres tipos que existen: 
     .row
       .col-lg-4.mb-4
         .tarjeta.tarjeta-avatar-slide.bg__azul-claro.hover--bg2.p-4.h-100
@@ -590,7 +592,7 @@
               figure
                 img(src='@/assets/curso/88.svg', alt='Texto que describa la imagen')
             .col-md-6.mb-4.mb-md-0
-              h4 Recursos de hardware: 
+              h4 Recursos de <i>hardware</i>: 
               p El tipo de servidor que soportará el repositorio, puede ser un sistema de arquitectura local o externa, dependiendo de diferentes factores.
           .row.justify-content-between
             .col-md-6.mb-4.mb-md-0
@@ -629,7 +631,7 @@
         .tarjeta.color-secundario--borde.p-5.h-100.hover
           img(src='@/assets/curso/93.svg' alt='AvatarTop').mb-3
           p.text-center
-            b Administración del contenido, que se facilita porque los recursos están descritos con metadatos que permiten su control.
+            b Adaptabilidad, que facilita al diseñador poder seleccionar y componer recursos según la aplicación. 
       .col-lg-3.mb-3
         .tarjeta.color-acento-botones--borde.p-5.h-100.hover
           img(src='@/assets/curso/94.svg' alt='AvatarTop').mb-3
@@ -660,7 +662,7 @@
         .bg__azul-claro.p-4.mb-3.d-flex.align-items-center.justify-content-end.position-relative(style='margin-top: 60px')
           img.position-absolute.d-none.d-lg-block.d-md-block(src='@/assets/curso/95.svg', alt='Texto que describa la imagen' style='width:267px; left:5%;  bottom: 10px' )
           .col-xxl-8.col-lg-7.col-md-5.col-12
-            p.mb-0 Ahora bien, el tamaño de un objeto de aprendizaje  digital es muy variable y es conocido como granularidad, debido a esto no es posible definir la cantidad de información o elementos que conlleva un objeto de aprendizaje, dependiendo de las necesidades y habilidades que tenga el autor irá formando el curso o información necesaria para crear objetos que mantengan la unidad y sean autocontenidos.
+            p.mb-0 <b>Para lograr la granularidad del objeto digital</b> el contenido se puede mostrar en una estructura jerárquica, la amplitud y profundidad de esta estructura jerárquica dependerá de los objetivos educativos. El nivel más alto tiene el contenido o concepto más general, y hasta un nivel específico, a partir de este último, se alcanza la granularidad que se le debe dar al objetivo de aprendizaje.
           
 
 

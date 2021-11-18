@@ -19,7 +19,7 @@
         .row
           .col-lg-4: img(src='@/assets/curso/97.jpg', alt='Texto que describa la imagen' )
           .col-lg-8
-            h4 Actualización refreshing
+            h4 Actualización <i>refreshing</i>
             p En este tipo de perseveración digital se maneja la transferencia de datos de un soporte a otro, la actualización varía según la política y el tipo de soporte.
       .tarjeta.pestanas.p-4(titulo="Migración")
         .row
@@ -44,7 +44,7 @@
           .col-lg-4: img(src='@/assets/curso/101.jpg', alt='Texto que describa la imagen' )
           .col-lg-8
             h4 Arqueología digital
-            p Se preserva el entorno técnico que ejecuta el sistema incluyendo software y hardware, es una estrategia poco viable ya que con el paso del tiempo los avances tecnológicos dificultan el mantenimiento de dicho entorno.
+            p Es una técnica que recupera informaciones dañadas, con pérdidas o demasiado antiguas, a causa de un mal trato de los datos.
       .tarjeta.pestanas.p-4(titulo="Metadatos")
         .row
           .col-lg-4: img(src='@/assets/curso/102.jpg', alt='Texto que describa la imagen' )
@@ -106,7 +106,7 @@
           |Las tareas que se asocian a la preservación digital son complejas y numerosas, por lo cual la organización debe ser lo suficientemente robusta para dar respuesta a todas esas acciones y ser sustentable en el tiempo, debido a esto se debe tener presente las recomendaciones al implementar el sistema, que se enuncian en la tabla 2.
     .titulo-sexto.color-secundario
       h5.fw-normal
-        b Tabla 2
+        b Tabla 2 
         | Recomendaciones
     .row.mb-5.justify-content-center
       .col-lg-10
@@ -120,7 +120,7 @@
               td Permitir el trabajo sobre diversos sistemas operativos, en particular Linux (en sus diversas distribuciones), Windows, entre otros.
             tr
               th Escalabilidad
-              td Contar con la habilidad de reaccionar y adaptarse a altas cargas de trabajo sin perder su rendimiento (performance).
+              td Contar con la habilidad de reaccionar y adaptarse a altas cargas de trabajo sin perder su rendimiento (<i>performance</i>).
             tr
               th Seguridad
               td Contar con altos estándares de seguridad en las siguientes áreas: integridad de la información transferida, acceso controlado, bitácora de trazabilidad, manejo de perfiles y roles de usuarios, alertas operativas y todo otro elemento requerido para garantizar la información transmitida y almacenada.
