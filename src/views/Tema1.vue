@@ -15,8 +15,7 @@
     p.mb-5 A continuación, se presenta las diferentes técnicas para tener en cuenta en la preservación digital: 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/IUq6Rhb-N9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Actualmente, existen diferentes tipos de documentos y formatos digitales, los cuales se presentan en la siguiente figura:
     .titulo-sexto.color-secundario
       h5.fw-normal
@@ -613,8 +612,7 @@
     p.mb-5 Villegas (2010) refiere el concepto de objetos digitales así:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/19PCvGBObd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Los beneficios que los objetos de aprendizaje pueden tener en un contexto educativo son (Lowerison, Gallart & Boyd, 2003):
     .row.mb-5
       .col-lg-3.mb-3
