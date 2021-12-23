@@ -32,7 +32,7 @@
             img(src='@/assets/curso/8.svg' alt='AvatarTop')
           .tarjeta.color-primario.d-flex.align-items-center
             .p-4
-              h5.mb-0 El contenido o tema que se refiere a de qué trata el documento.
+              h5.mb-0 El contenido o tema que se refiere o de qué trata el documento.
       .col-lg-4.mb-3
         .tarjeta-avatar-b.mb-5.h-100.hover
           .tarjeta-avatar-b__img
@@ -114,7 +114,7 @@
       .col-lg-8
         .cajon.color-acento-contenido.bg__rojo-claro.p-4.mb-4(data-aos="zoom-in-up")
           p Hay que tener en cuenta que pueden estar disponibles varias propuestas de preservación digital, pero no todas, son ideales para cada tipo de negocio, organización o entidad. Por ello, es importante conocer la necesidad para así saber qué propuesta es idónea. 
-    p.mb-5 A continuación, se exponen algunas propuesta digitales:
+    p.mb-5 A continuación, se exponen algunas propuestas digitales:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg__morado-claro ")
       .row(titulo="Conservación")
         .col-md-4
@@ -152,7 +152,7 @@
           figure
             img(src='@/assets/curso/25.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p Es la es utilizada para copiar o convertir datos desde una tecnología a otra, conservando las características esenciales de los datos y, el almacenamiento es tratado como un estado pasivo en el ciclo de vida, pero sus soportes de formatos y almacenamiento van cambiando.
+          p Es la utilizada para copiar o convertir datos desde una tecnología a otra, conservando las características esenciales de los datos y, el almacenamiento es tratado como un estado pasivo en el ciclo de vida, pero sus soportes de formatos y almacenamiento van cambiando.
       .row(titulo="Estándares y emulación")
         .col-md-4
           figure
@@ -385,7 +385,7 @@
               | Aún persiste la preferencia por la lectura desde el medio impreso y no digital.
             li 
               i.incorrect
-              | Requiere de altos sistemas de <i>software</i>, que garanticen su respaldo y seguridad, de lo contrario puede ser vulnerada o alterada la información.
+              p.mb-0 Requiere de altos sistemas de <i>software</i>, que garanticen su respaldo y seguridad, de lo contrario puede ser vulnerada o alterada la información.
     p.mb-5 A continuación, se comparten algunas bibliotecas digitales de gran reconocimiento a nivel mundial:
     .contenedor-tarjetas.d-flex.flex-wrap.justify-content-center.mb-3
       .tarjeta.p-3.color-primario.hover--bg(style='width: 229px; height: 450px').mx-1.mb-3
@@ -481,9 +481,6 @@
           li 
             i.vineta1
             | Alumnos 
-          li 
-            i.vineta1
-            | Graduados
           li 
             i.vineta1
             | Graduados
